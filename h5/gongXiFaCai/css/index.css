@@ -1,0 +1,122 @@
+/**************************************** 主幻灯片 1 ****************************************/
+/* 幻灯片 1 */
+.main1_ani_01 { 
+	width:15%;left:82%;top:10%;position:absolute;
+}
+.main1_ani_02 {
+	width:15%;left:10%;top:10%;position:absolute;
+}
+.main1_ani_05{
+	width:15%;left:7%;top:10%;position:absolute;
+}
+.main1_ani_06{
+	margin-left: 50%;transform: translateX(-50%);margin-top: 5%;
+}
+.main1_ani_07{
+	margin-left: 50%;transform: translateX(-50%);margin-top: 50%;
+}
+/* 幻灯片 2 */
+
+/* 幻灯片 3 */
+
+/* 幻灯片 4 */
+
+/* 幻灯片 5 */
+.main1_ani_03 {
+	height:auto;width:280px;left:50%;top:15%;position:absolute;margin-left:-140px;
+}
+.main1_ani_04 {
+	height:auto;width:260px;left:50%;top:80%;position:absolute;margin-left:-130px;
+}
+
+/*************************************** 子幻灯片 1 ***************************************/
+/* 幻灯片 1 */
+.child1_ani_01 {
+	height:auto;width:158px;left:50%;top:2%;position:absolute;margin-left:-79px;
+}
+.child1_ani_02 {
+	height:auto;width:240px;left:50%;top:28%;position:absolute;margin-left:-120px;
+}
+.child1_ani_03 {
+	height:auto;width:241px;left:50%;top:36%;position:absolute;margin-left:-120px;
+}
+.child1_ani_04 {
+	height:auto;width:142px;left:50%;top:85%;position:absolute;margin-left:-71px;
+}
+.child1_ani_05 {
+	height:auto;width:248px;left:50%;top:8%;position:absolute;margin-left:-110px;
+}
+/* 幻灯片 2 */
+.child1_ani_06 {
+	height:auto;width:293px;left:50%;top:5%;position:absolute;margin-left:-146px;
+}
+.child1_ani_07 {
+	height:auto;width:260px;left:50%;top:80%;position:absolute;margin-left:-130px;
+}
+
+
+/*自定义*/
+.child1_ani_08{
+	width: 70%;position: absolute;bottom:5%;left: 22%;/*transform: translateX(-50%)*/;
+}
+
+/*************************************** 子幻灯片 2 ***************************************/
+/* 幻灯片 1 */
+.child2_ani_01 {
+	height:auto;width:166px;left:50%;top:2%;position:absolute;margin-left:-86px;
+}
+.child2_ani_02 {
+	height:auto;width:250px;left:50%;top:30%;position:absolute;margin-left:-125px;
+}
+.child2_ani_03 {
+	height:auto;width:172px;left:50%;top:28%;position:absolute;margin-left:-55px;
+}
+.child2_ani_04 {
+	height:auto;width:142px;left:50%;top:85%;position:absolute;margin-left:-71px;
+}
+.child2_ani_05 {
+	height:auto;width:248px;left:50%;top:43%;position:absolute;margin-left:-124px;
+}
+/* 幻灯片 2 */
+.child2_ani_06 {
+	height:auto;width:293px;left:50%;top:5%;position:absolute;margin-left:-146px;
+}
+.child2_ani_07 {
+	height:auto;width:260px;left:50%;top:80%;position:absolute;margin-left:-130px;
+}
+
+/*自定义*/
+.child2_ani_08{
+	width: 30%;position: absolute;left: 2%;bottom: 2%;
+}
+
+/*************************************** 子幻灯片 3 ***************************************/
+/* 幻灯片 1 */
+.child3_ani_01 {
+	height:auto;width:162px;left:50%;top:2%;position:absolute;margin-left:-84px;
+}
+.child3_ani_02 {
+	height:auto;width:230px;left:50%;top:28%;position:absolute;margin-left:-115px;
+}
+.child3_ani_03 {
+	height:auto;width:161px;left:50%;top:28%;position:absolute;margin-left:-80px;
+}
+.child3_ani_04 {
+	height:auto;width:142px;left:50%;top:85%;position:absolute;margin-left:-71px;
+}
+.child3_ani_05 {
+	height:auto;width:271px;left:50%;top:33%;position:absolute;margin-left:-135px;
+}
+.child3_ani_06 {
+	height:auto;width:169px;left:50%;top:78%;position:absolute;margin-left:-70px;
+}
+/* 幻灯片 2 */
+.child3_ani_07 {
+	height:auto;width:293px;left:50%;top:5%;position:absolute;margin-left:-146px;
+}
+.child3_ani_08 {
+	height:auto;width:260px;left:50%;top:80%;position:absolute;margin-left:-130px;
+}
+.child3_ani_09 {
+	width:60%;top:58%;position:absolute;
+}
